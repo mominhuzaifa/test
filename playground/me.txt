@@ -1,5 +1,0 @@
-{{#user}}
-Name: Momin Huzaifa
-Skills: DevOps, Jenkins, Docker, Terraform, Ansible, K8s, AWS SAA
-Email: mominhuzaifa@hotmail.com
-{{/user}}
